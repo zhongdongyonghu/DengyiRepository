@@ -1,4 +1,5 @@
 DengyiRepository
 ================
 
-my firs repository
+my first repository
+hello world
